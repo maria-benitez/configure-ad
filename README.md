@@ -24,6 +24,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 3
 - Step 4
 
+SCREENSHOTS:
+1. <img width="1440" alt="image" src="https://github.com/maria-benitez/configure-ad/assets/147643771/336a30e0-1225-4038-85ba-985cf0516b81">
+2. <img width="1440" alt="image" src="https://github.com/maria-benitez/configure-ad/assets/147643771/5e06aa94-5cf6-4985-a88e-8d75e38fbfb1">
+3. <img width="1440" alt="image" src="https://github.com/maria-benitez/configure-ad/assets/147643771/74d7595a-1ff8-41a2-86c3-725ba3e61289">
+
+
+
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
