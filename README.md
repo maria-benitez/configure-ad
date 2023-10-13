@@ -116,4 +116,4 @@ In Client 1, by using whoami command and by looking at the users who have logged
 <p>
 <img width="1440" alt="image" src="https://github.com/maria-benitez/configure-ad/assets/147643771/f3de3bd8-33c3-4ee4-9086-52c9c4e39861">
 </p>
-To finish off, I will delete the virtual machines and research groups on Azure. 
+To finish off, I will delete the virtual machines and resource groups on Azure. 
