@@ -93,7 +93,7 @@ From Domain Controller I can observe that all domain users are now allowed to lo
 <p>
 <img width="1440" alt="image" src="https://github.com/maria-benitez/configure-ad/assets/147643771/20efb4d3-0a8d-4e80-8d69-88c041d99535">
 </p>
-On Domain Controller, I will be using Powershell ISE as an administrator and a script (https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1/)  to create additional users to attempt to log into Client 1 with one of the said users.
+On Domain Controller, I will be using Powershell ISE as an administrator and a script (Generate-Names-Create-Users.ps1) to create additional users to attempt to log into Client 1 with one of the said users.
 </p>
 <br />
 
